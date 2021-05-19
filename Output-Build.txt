@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: NeedForSpeed, Configuration: Debug Any CPU ------
+1>NeedForSpeed -> D:\QA__\SoftUniC#_\3_Part_3_Advanced\02_OOP_Course\03_Exer_Inheritance\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
